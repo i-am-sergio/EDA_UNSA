@@ -10,4 +10,4 @@ dimensiones, específicamente en dimensiones 10, 50, 100, 500, 1000, 2000, y 500
 este análisis, se generaron histogramas que representan la distribución de estas distancias y se
 observaron las tendencias y cambios a medida que se aumenta la dimensión.
 
-## Informe: [Informe en PDF](informe.pdf)
+## Informe -> [Link](informe.pdf)
