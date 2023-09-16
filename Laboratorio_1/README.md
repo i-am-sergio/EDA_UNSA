@@ -13,3 +13,5 @@ observaron las tendencias y cambios a medida que se aumenta la dimensión.
 ## Informe -> [Link](informe.pdf)
 
 ## Codigo C++ -> [Link](laboratorio1_EDA.cpp)
+
+## Codigo Python -> [Link](histograma.py)
