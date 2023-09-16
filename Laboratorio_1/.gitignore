@@ -1,0 +1,4 @@
+*.exe
+datos_dim*
+distancias_dim*
+.vscode
